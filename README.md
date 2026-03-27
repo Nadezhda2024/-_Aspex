@@ -36,7 +36,7 @@
 
 ### 2. Командные прототипы (3–4 неделя) — Проект "Agile Insight"
 
-![Командные дашборды 3 неделя](images/prototypes-week3.jpg)
+![Командные дашборды 3 неделя](https://github.com/Nadezhda2024/-_Aspex/blob/main/%D0%A1%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_Aspex_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%D0%9F%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%20-%203-%D1%8F%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%20%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20BI.jpg)
 
 ![Финансовый, Продуктовый и Операционный дашборды](images/prototypes-week4.jpg)
 
